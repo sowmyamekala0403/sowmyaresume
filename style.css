@@ -1,0 +1,60 @@
+.main{
+    display:inline;
+}
+.leftdiv{
+    width:40%;
+    height: 580px;
+   
+    float:left;
+    line-height:-10px;
+}
+
+.leftdiv .profile{
+    width:120px;
+    height:60px;
+    border-radius: 50px;
+    margin-left: 20%;
+}
+.leftdiv .line{
+    width:70%;
+    height: 1px;
+    background-color:black;
+
+}
+.leftdiv .detailssection,.rightdiv .detailssection{
+    font-size: 15px;
+    padding-left: 8px;
+    line-height: 1px;
+    color: #088395;
+}
+.leftdiv .detailsnames,.rightdiv .detailsnames{
+    font-size: 12px;
+    color:brown;
+    font-weight: bolder;
+}
+.rightdiv .detailsnames{
+    list-style-type: none;
+}
+.leftdiv .details,.rightdiv .details{
+    font-size: 11px;
+    color: black;
+}
+.rightdiv .details{
+    list-style-type:square;
+}
+.line2{
+    width:90%;
+    background-color: black;
+    height: 1px;
+}
+.rightdiv{
+    width:60%;
+    height: 580px;
+;
+    float:right;
+}
+.rightdiv .name{
+    font-size: 20px;
+    color: #E64848;
+}
+
